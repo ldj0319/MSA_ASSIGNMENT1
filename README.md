@@ -1,2 +1,2 @@
 # MSA_ASSIGNMENT1
-This is for a MSA Assignment Phase1
+This is a weather forecast web application
